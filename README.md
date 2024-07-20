@@ -54,7 +54,7 @@ pip install requests
   `client_id`, `client_secret`,`access_token` and 
   `YOUR_DISCORD_WEBHOOK_URL`
 
-* you can always modify the genre e.g `metal,rock,pop,rap,country e.t.c`, to get recommended genre specified songs
+* you can always modify the genre e.g `metal,rock,pop,rap,country e.t.c`, to get recommended, genre specified songs
 
 
 ![genre](https://github.com/user-attachments/assets/dc172486-8e65-43f3-97d8-2014b7e201f1)
