@@ -55,6 +55,8 @@ pip install requests
   `YOUR_DISCORD_WEBHOOK_URL`
 
 * you can always modify the genre e.g `metal,rock,pop,rap,country e.t.c`, to get recommended genre specified songs
+
+
 ![genre](https://github.com/user-attachments/assets/dc172486-8e65-43f3-97d8-2014b7e201f1)
 
 
@@ -75,7 +77,11 @@ crontab -e
 ```sh
 crontab -l
 ```
+
+
 ![python](https://github.com/user-attachments/assets/1e63fbe7-f187-4801-9fad-63be961d68bd)
+
+
 ![notify](https://github.com/user-attachments/assets/ec5031e7-aeab-46e0-a6f0-4d5d03ba8e48)
 
 
